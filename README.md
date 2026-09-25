@@ -1,3 +1,3 @@
 <div align="center">
-  <img width="128" height="128" alt="68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" src="https://github.com/user-attachments/assets/e8bc336d-d609-4354-b34d-2f73591358c9" />
+  <img width="64" height="64" src="https://github.com/user-attachments/assets/e8bc336d-d609-4354-b34d-2f73591358c9" />
 </div>
